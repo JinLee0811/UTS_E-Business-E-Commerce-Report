@@ -33,7 +33,7 @@ This week, Team Super explores the dynamic and evolving landscape of e-commerce 
 
 ### Download
 For a more comprehensive understanding of our findings and analyses, please download our full report:
-[EEIS Week 5 Submission - Team Super PDF](https://github.com/TeamSuperUTS/EEIS_Week5/blob/main/EEIS_Week5.pdf)
+[EEIS Week 5 Submission - Team Super PDF](https://github.com/JinLee0811/UTS_EEIS_Week5/blob/main/_week5_.pdf)
 
 ---
 
